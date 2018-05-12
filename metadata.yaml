@@ -1,16 +1,22 @@
 _repo: On-the-Phenomena-of-Hybridity-in-the-Genus-Homo_47137
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Blake, Charles Carter
       gutenberg_agent_id: '44153'
       url: http://www.gutenberg.org/2009/agents/44153
+covers:
+- cover_type: archival
+  image_path: 47137-h/images/cover.jpg
 creator:
   author:
     agent_name: Broca, Paul
     gutenberg_agent_id: '44152'
     url: http://www.gutenberg.org/2009/agents/44152
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47137#On-the-Phenomena-of-Hybridity-in-the-Genus-Homo
 gutenberg_issued: '2014-10-17'
 gutenberg_type: Text
 identifiers:
